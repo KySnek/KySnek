@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @KySnek
 - 👀 I’m interested in data analysis with pyhon 
-- 🌱 I’m currently learning data analysis with Bloom Tech 
-- 💞️ I’m looking to collaborate on kaggle challanges and projects for predictive analytics 
+- 🌱 I’m currently learning data analysis with Bloom Tech
+- 📚 I write a substack blog, chi2snake@substack.com
+- 💞️ I’m looking to collaborate on projects for predictive analytics 
 - 📫 How to reach me send me an email at kysnek@proton.me
