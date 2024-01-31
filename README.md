@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @KySnek
-- 👀 I’m interested in data analysis with pyhon 
-- 🌱 I’m currently learning data analysis with Bloom Tech
+- 👋 Hi, I’m Connor Scott 
+- 👀 I’m a Data Scientist 
 - 📚 I write a substack newsletter, chi2snake@substack.com
-- 💞️ I’m looking to collaborate on projects for predictive analytics 
+- 💞️ I’m looking to collaborate on projects for predictive analytics, genertive AI, and experimental research 
 - 📫 How to reach me send me an email at kysnek@proton.me
