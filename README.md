@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Connor Scott 
 - 👀 I’m a Data Scientist 
-- 📚 I write a substack newsletter, chi2snake@substack.com
+- 📚 I write a substack newsletter, chi2snake@substack.com 
 - 💞️ I’m looking to collaborate on projects for predictive analytics, genertive AI, and experimental research 
-- 📫 How to reach me send me an email at kysnek@proton.me
+- 📫 How to reach me send me an email at kysnek@proton.me, or call me 310.801.2945
